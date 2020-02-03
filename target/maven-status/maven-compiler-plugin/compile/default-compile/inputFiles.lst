@@ -1,0 +1,15 @@
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\RulesList.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\MyFirstCustomCheck.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidBrandInMethodNamesRule.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\MyCustomSubscriptionRule.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\CustomCheckForDefineClass.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidMethodDeclarationRule.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidAnnotationRule.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaRulesDefinition.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\PrinterVisitor.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\SecurityAnnotationMandatoryRule.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaRulesPlugin.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidUnmodifiableListRule.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidSuperClassRule.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaFileCheckRegistrar.java
+C:\Users\Admin\proj\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\SpringControllerRequestMappingEntityRule.java
